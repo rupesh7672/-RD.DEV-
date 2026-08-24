@@ -42,17 +42,8 @@ An AI-powered Expense Manager built using modern Android technologies.
 ## 🛠️ Tech Stack
 
 ### Languages
-- Kotlin
+- python
 - Java
-
-### Android
-- Jetpack Compose
-- Material 3
-- Navigation Compose
-- MVVM
-- Room Database
-- DataStore
-- WorkManager
 
 ### Backend & Cloud
 - Firebase Authentication
@@ -63,7 +54,6 @@ An AI-powered Expense Manager built using modern Android technologies.
 - Android Studio
 - Git
 - GitHub
-- Figma
 - Postman
 
 ---
