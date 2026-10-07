@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rupesh Dhole</h1>
 
 <h3 align="center">
-Android Developer • java • c • Firebase • python
+  Developer • java • c • Firebase • python
 </h3>
 
 <p align="center">
